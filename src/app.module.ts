@@ -9,7 +9,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
       port: 3306,
       username: 'root',
       password: 'root',
-      database: 'db_crud_famarcia',
+      database: 'db_crud_farmacia',
       entities: [],
       synchronize: true,
     }),
